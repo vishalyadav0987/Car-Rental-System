@@ -1,0 +1,130 @@
+/* .container{
+    display: flex;
+} */
+.h2 {
+    width: 464px;
+    margin: 1px 18px 14px 1px;
+}
+
+.firstphoto {
+    /* border: 2px solid red; */
+    width: 464px;
+    height: 427px;
+    margin: 54px 0px 39px 30px;
+    border-radius: 25px;
+    box-shadow: #bf474721 8px 7px 2px 3px;
+}
+
+.firstphoto1 {
+    /* border: 2px solid red; */
+    width: 464px;
+    height: 427px;
+    margin: -462px 0px 2px 528px;
+    border-radius: 25px;
+    box-shadow: #bf474721 8px 7px 2px 3px;
+}
+
+.firstphoto2 {
+    /* border: 2px solid red; */
+    width: 464px;
+    height: 427px;
+    margin: -431px 0px 39px 1025px;
+    border-radius: 25px;
+    box-shadow: #bf474721 8px 7px 2px 3px;
+}
+
+.f {
+    margin: 19px 0px 0px 15px;
+    width: 434px;
+    color: white;
+    font-weight: bold;
+    background: #64259e;
+    ;
+    height: 39px;
+    border-radius: 7px;
+    border: 2px solid #64259e;
+    ;
+}
+
+.y {
+    font-size: 17px;
+    border: 1px solid black;
+    width: 45px;
+    padding-left: 9px;
+    border-radius: 6px;
+    margin: -6px 0px -3px 18px;
+}
+
+.h76 {
+    font-size: 35px;
+    color: #465166;
+    margin: 114px 0px 110px 93px;
+    font-weight: bolder;
+}
+
+.k1 {
+    color: #465166;
+    margin: -62px 0px 36px 93px;
+    font-size: 15px;
+}
+
+.z1 {
+    margin: 19px 0px 235px 93px;
+    width: 271px;
+    height: 47px;
+    color: white;
+    font-weight: bold;
+    background-color: #fd7e14;
+    border: 2px solid #fd7e14;
+    border-radius: 10px;
+}
+
+.z1:hover {
+    background-color: white;
+    color: #fd7e14;
+    border: 1px solid #80858f;
+    cursor: pointer;
+}
+
+.last {
+    border: 2px solid #fd7e14;
+    height: 228px;
+    background: #fd7e14;
+}
+
+.search1 {
+    display: flex;
+    width: 386px;
+    height: 48px;
+    border-radius: 14px;
+    border: 2px solid #fd7e14;
+    margin: 7px 0px 0px 526px;
+    padding: 0px 0px 0px 19px;
+}
+
+#button {
+    color: white;
+    font-weight: bold;
+    background: #64259e;
+    border: 2px solid #64259e;
+    border-radius: 4px;
+    width: 111px;
+    height: 35px;
+    margin: -41px 0px 1px 793px;
+    display: flex;
+}
+
+#button:hover {
+    background: white;
+    color: #64259e;
+    cursor: pointer;
+
+}
+
+.subs {
+    display: flex;
+    color: white;
+    font-weight: 800;
+    font-size: 30px;
+    margin: 72px 0px 0px 563px;
+}

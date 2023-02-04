@@ -1,0 +1,126 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.i {
+    color: blue;
+}
+
+.r {
+    color: rgb(151, 151, 197);
+    margin: 0px 0px 0px 11px;
+}
+
+.header {
+    display: flex;
+    list-style: none;
+    background-color: #1b1919;
+    color: aliceblue;
+    height: 72px;
+}
+
+.b1:hover {
+    cursor: pointer;
+
+}
+
+.b2:hover {
+    cursor: pointer;
+
+}
+
+.inline {
+    font-weight: bolder;
+    
+}
+
+.h {
+    margin: 19px 0px 0px 104px;
+    font-size: 30px;
+}
+
+.c {
+    font-size: 30px;
+    margin: -34px 0px 0px 231px;
+}
+
+.u {
+    font-size: 30px;
+    margin: -34px 0px 0px 361px;
+}
+.d{
+    font-size: 30px; 
+    margin: -34px 0px 0px 546px;
+}
+.in{
+    font-size: 26px; 
+    margin: -34px 0px 0px 1223px;
+   
+    
+}
+.up{
+    font-size: 26px;
+margin: -34px 0px 0px 1339px;
+border: 2px solid white;
+background: white;
+color: blue;
+}
+.inline a {
+    text-decoration: none;
+    color: white;
+}
+.inline img{
+    width: 58px;
+margin: -55px 0px 0px 14px;
+}
+.login {
+    margin: 70px 0px 0px 87px;
+    border: 2px solid rgb(0, 136, 255);
+    width: 698px;
+    height: 403px;
+    border-bottom-left-radius: 90px;
+    border-top-right-radius: 90px;
+    background-color: rgb(0, 136, 255);
+}
+
+.x {
+    margin: 14px 0px 0px 279px;
+}
+
+.content {
+    margin: 50px 0px 0px 64px;
+    font-size: 32px;
+    border-radius: 10px;
+}
+
+.b3:hover {
+    background-color: gold;
+
+}
+
+#b4:hover {
+    background-color: gold;
+
+}
+
+.b3 b a {
+    text-decoration: none;
+}
+
+#b4 b a {
+    text-decoration: none;
+}
+.reset{
+    margin: 60px 0px 0px 440px;
+display: flex;
+width: 150px;
+height: 32px;
+border-radius: 9px;
+font-size: 15px;
+color: red;
+}
+.car{
+    margin: -365px 0px 0px 836px;
+width: 548px;
+}
